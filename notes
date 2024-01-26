@@ -1,0 +1,25 @@
+WINNER!
+
+Tic Tac Toe is won by matching 3 of your symbols across, up and down, or diagonally.
+
+In order to accomplish this, the program needs to be able to compare the symbols in each of a
+variety of space combinations.
+
+There are actually 8 combinations.
+
+3 across.
+
+3 up and down.
+
+2 diagonally.
+
+THE FULL BOARD
+
+Your board class should have a method to check itself and see if there’s a winner.
+
+It should do that every time someone takes a turn.
+
+Finally, we need to make sure we handle the possibility (probability?) of a tie game.
+
+The game ends in a tie when the board is full and no one has won.
+
